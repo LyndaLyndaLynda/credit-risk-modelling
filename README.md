@@ -27,7 +27,7 @@ This ensures that risky applicants are not incorrectly approved or classified as
 
 ---
 
-## 🧾 Dataset
+## Dataset
 
 Source: German Credit Dataset
 Size: ~1000 observations
@@ -91,6 +91,20 @@ These insights align with real-world credit risk drivers:
 ### Why 80/20 split?
 
 > An 80/20 train-test split was selected as a standard compromise between training set size and test reliability. Although alternative splits such as 70/30 may produce slightly different results, performance can vary due to sampling variability. For a more robust assessment, cross-validation was also used.
+
+---
+
+## Notebook Documentation
+
+All steps of the analysis are fully explained in the notebook, including:
+
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Model selection and evaluation  
+- Interpretation of all graphs and visualizations  
+- Explainability (feature importance and SHAP)  
+
+The notebook is designed as a complete, step-by-step walkthrough, making the project easy to understand from both a technical and business perspective.
 
 ---
 
@@ -254,20 +268,6 @@ This project demonstrates that:
 * Cost-sensitive learning
 * Model calibration
 * Deployment (API / dashboard)
-
----
-
-## Notebook Documentation
-
-All steps of the analysis are fully explained in the notebook, including:
-
-- Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Model selection and evaluation  
-- Interpretation of all graphs and visualizations  
-- Explainability (feature importance and SHAP)  
-
-The notebook is designed as a complete, step-by-step walkthrough, making the project easy to understand from both a technical and business perspective.
 
 ---
 
