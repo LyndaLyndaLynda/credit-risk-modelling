@@ -273,9 +273,9 @@ This project demonstrates that:
 
 ## Author
 
-Lynda Djellouli
-MSc Data Science
-Machine Learning & Financial Risk Analytics
+* Lynda Djellouli
+* MSc Data Science
+* Machine Learning & Financial Risk Analytics
 
 ---
 
