@@ -123,7 +123,7 @@ The notebook is designed as a complete, step-by-step walkthrough, making the pro
 ## Results
 
 ### Model Performance Comparison
-![Performance](output/Figures/model_performance_comparison_holdout.jpg)
+![Performance](output/figures/model-performance-comparison/model_performance_comparison_holdout.jpg)
 
 ### Key findings
 
@@ -181,7 +181,7 @@ The project becomes interesting because it shows that:
 A custom threshold (0.3) was applied:
 
 ### Threshold Optimization (Key Insight)
-![Threshold](output/Figures/threshold_tuning_curve.jpg)
+![Threshold](output/figures/comparison-plots/threshold_tuning_curve.jpg)
 
 * Recall ↑ significantly
 * Precision ↓
@@ -205,7 +205,7 @@ This demonstrates a core financial trade-off:
 ## Feature Importance
 
 ### Feature Importance (XGBoost)
-![XGB](output/Figures/top10_xgb_feature_importances.jpg)
+![XGB](output/figures/explainability/top10_xgb_feature_importances.jpg)
 
 Top features:
 
@@ -228,7 +228,7 @@ SHAP was used to:
 * ensure transparency
 
 ### Model Explainability (SHAP - XGBoost)
-![SHAP](output/Figures/shap_summary_xgboost.jpg)
+![SHAP](output/Figures/explainability/shap_summary_xgboost.jpg)
 
 Key insights:
 
