@@ -67,7 +67,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-** Alternative: run the script
+Alternatively: run the script
 
 ```bash
 python src/pipeline.py
