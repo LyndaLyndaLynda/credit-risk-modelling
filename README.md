@@ -257,7 +257,9 @@ credit-risk-modelling/
 ├── notebooks/
 ├── src/
 ├── outputs/
-├── README.md
+│   ├── figures/
+│   └── results/
+└── README.md
 
 ---
 
