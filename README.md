@@ -1,4 +1,5 @@
 # Credit risk modelling project using machine learning to predict loan default probability
+# Built with: Python, Scikit-learn, XGBoost, SHAP, Pandas, Matplotlib
 
 ## Project Overview
 
@@ -70,7 +71,7 @@ jupyter notebook
 Alternatively: run the script
 
 ```bash
-python src/pipeline.py
+python src/credit-risk-modelling.py
 ```
 
 ---
