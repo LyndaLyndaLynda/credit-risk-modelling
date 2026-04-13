@@ -1,0 +1,20 @@
+{
+  "dataset_path": "/Users/lyndadjellouli/Desktop/Github_Data/data/german_credit.csv",
+  "test_size": 0.2,
+  "random_state": 42,
+  "threshold_model3": 0.3,
+  "categorical_columns": [
+    "Gender",
+    "Housing",
+    "Saving accounts",
+    "Purpose"
+  ],
+  "numeric_columns": [
+    "Credit History",
+    "Age",
+    "Job",
+    "Credit amount",
+    "Duration"
+  ],
+  "xgboost_available": true
+}
