@@ -215,7 +215,7 @@ Top features:
 * Saving accounts
 * Age
 
-These align with real-world credit scoring logic.
+> These align with real-world credit scoring logic.
 
 ---
 
@@ -236,7 +236,7 @@ Key insights:
 * Credit amount ↑ → Risk ↑
 * Low savings → Risk ↑
 
-This is critical in financial applications where decisions must be explainable.
+> This is critical in financial applications where decisions must be explainable.
 
 ---
 
