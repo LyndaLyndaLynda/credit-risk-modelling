@@ -166,6 +166,17 @@ The notebook is designed as a complete, step-by-step walkthrough, making the pro
 | Random Forest                      | Non-linear modelling   |
 | XGBoost                            | Best performance       |
 
+
+## Models Implemented
+
+| Model | Purpose |
+|---|---|
+| Logistic Regression | Interpretable baseline |
+| Class-Weighted Logistic Regression | Improve recall |
+| Logistic + Threshold (0.3) | High-risk detection |
+| Random Forest | Non-linear modelling |
+| XGBoost | Best performance |
+
 ---
 
 ## Results
