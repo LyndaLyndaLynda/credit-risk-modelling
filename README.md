@@ -254,8 +254,8 @@ This model can support:
 
 credit-risk-modelling/
 ├── data/
-├── notebooks/
-├── src/
+├── notebook/        # Jupyter notebook with full analysis
+├── src/             # Production-ready script
 ├── outputs/
 │   ├── figures/
 │   └── results/
