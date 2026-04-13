@@ -27,6 +27,54 @@ This ensures that risky applicants are not incorrectly approved or classified as
 
 ---
 
+## Quick Start
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/LyndaLyndaLynda/credit-risk-modelling.git
+cd credit-risk-modelling
+```
+
+### 2. Create a virtual environment (recommended)
+
+```bash
+python -m venv venv
+```
+
+Activate it:
+Mac/Linux:
+
+```bash
+source venv/bin/activate
+```
+
+Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Launch the notebook
+
+```bash
+jupyter notebook
+```
+
+** Alternative: run the script
+
+```bash
+python src/pipeline.py
+```
+
+---
+
 ## Dataset
 
 Source: German Credit Dataset
