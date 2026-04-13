@@ -220,9 +220,9 @@ SHAP was used to:
 
 Key insights:
 
-* Duration ↑ => Risk ↑
-* Credit amount ↑ => Risk ↑
-* Low savings => Risk ↑
+* Duration ↑ → Risk ↑
+* Credit amount ↑ → Risk ↑
+* Low savings → Risk ↑
 
 This is critical in financial applications where decisions must be explainable.
 
@@ -274,8 +274,8 @@ This project demonstrates that:
 ## Author
 
 * Lynda Djellouli
-* MSc Data Science
-* Machine Learning & Financial Risk Analytics
+   * MSc Data Science
+   * Machine Learning & Financial Risk Analytics
 
 ---
 
