@@ -228,7 +228,7 @@ SHAP was used to:
 * ensure transparency
 
 ### Model Explainability (SHAP - XGBoost)
-![SHAP](outputs/Figures/explainability/shap_summary_xgboost.jpg)
+![SHAP](outputs/figures/explainability/shap_summary_xgboost.jpg)
 
 Key insights:
 
