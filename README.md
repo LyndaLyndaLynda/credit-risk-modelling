@@ -251,7 +251,7 @@ This model can support:
 ---
 
 ## Project Structure
-
+```bash
 credit-risk-modelling/
 ├── data/
 ├── notebook/        # Jupyter notebook with full analysis
@@ -260,7 +260,7 @@ credit-risk-modelling/
 │   ├── figures/
 │   └── results/
 └── README.md
-
+```
 ---
 
 ## Key Takeaway
